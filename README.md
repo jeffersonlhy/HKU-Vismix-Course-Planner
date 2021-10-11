@@ -51,7 +51,7 @@ The program reads a `course.json` for the course schedule information. This obje
         subClass: string,
         semester: String,
         venue: String,
-        slots: [number]
+        slots: [Integer]
     }
 
 ```

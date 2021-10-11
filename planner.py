@@ -178,5 +178,3 @@ if __name__ == "__main__":
             'courseSetup': f'{courseTargeted}',
             'details': str(e),
         }))
-
-# Usage: python schedulePlanner.py Sem-1 5 'COMP2396,COMP3322,COMP3234,COMP3270,MATH2101'

@@ -1,6 +1,6 @@
 # HKU Vismix Planner  
 
-HKU Vismix Planner is a set of python scripts that the Vismix backend invokes to compute all feasible timetables given the set of course schedules. The course schedule information is given to the program in a json file. This script is built upon Z3 solver where the course combination problem is treated as logical formulas expressed in first-order logic. 
+HKU Vismix Planner is a set of python scripts that the Vismix backend invokes to compute all feasible timetables given the set of course schedules. The course schedule information is given to the program in a json file. This script is built upon Z3 solver where the course combination problem is treated as logical formula expressed in first-order logic. 
 
 ## Getting Started
 
